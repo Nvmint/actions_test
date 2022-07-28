@@ -1,6 +1,5 @@
 # sec-employment-api
 ### Initial setup
-​
 #### Download required tools
 ​
 To begin working on Secondary Employment, you'll require certain tools.
@@ -41,6 +40,7 @@ In order to obtain the env file required for this project please request access 
 - @Bernardo Elizondo
 ​
 2. Open the vault of the project and copy the contents from the `.env` file.
+
 
 ### Runnning the project
 
