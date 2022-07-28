@@ -1,7 +1,6 @@
 # sec-employment-api
 ​
-### Initial setup
-​
+## Initial setup
 #### Download required tools
 ​
 To begin working on Secondary Employment, you'll require certain tools.
@@ -27,3 +26,16 @@ Using the command `pip install` add the following python modules:
 2. Login with your enterprise IBM GitHub account or [connect with an SSH key](https://docs.github.com/en/enterprise-server@3.2/authentication/connecting-to-github-with-ssh) (recommended).
 3. Clone this repository (SSH): `git@github.ibm.com:Secondary-Employment/sec-employment-api.git`
 ​
+## Running the proyect 
+#### Runnig the servidor locally
+
+`py manage.py runserver`
+   
+`py manage.py runserver`
+
+Usinng the command for windows:
+```bash
+pip install foobar
+```
+
+  
